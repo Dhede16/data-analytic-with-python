@@ -1,2 +1,15 @@
-# health-sleep-visualization
-A data visualization project exploring relationships between sleep duration, physical activity, and overall health metrics. The project analyzes real-world datasets to identify trends and insights on how lifestyle factors impact sleep quality.
+# Data Analytic With Python 
+## Introduction
+Some data analyst i do when i get bored, lol 
+
+## Technology 
+* Pandas
+* Matplotlib
+* Seaborn
+* Numpy
+
+## Environment Setup
+```
+pip install -r requirements.txt
+```
+
